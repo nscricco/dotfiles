@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/nicholasscricco'
+let g:netrw_dirhist_2='/Users/macmini/.vim'
+let g:netrw_dirhist_3='/Users/macmini/.cache'
+let g:netrw_dirhist_4='/Users/nicholasscricco/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/active_model_serializers-2423ca49995a'
+let g:netrw_dirhist_5='/Users/nicholasscricco/Google Drive/Education/Coursera/nand2tetris/notes'
